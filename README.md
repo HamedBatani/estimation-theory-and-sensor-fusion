@@ -1,10 +1,10 @@
 # Estimation Theory and Sensor Fusion
 
-I completed this graduate-level coursework at Sharif University of Technology under Professor Behzad Ahi, earning a final course grade of **17.5/20**. The official course title was **Inertial Navigation**.
+My selected graduate-level coursework in estimation theory and sensor fusion covers stochastic modeling, nonlinear state estimation, and quantitative evaluation of filtering methods. I completed the course at Sharif University of Technology under Professor Behzad Ahi, earning **17.5/20**. Official course title: **Inertial Navigation**.
 
 ## Selected coursework
 
-My selected coursework explores correlated-noise modeling, multi-rate sensor fusion for a planar robot, and nonlinear filtering for a Van der Pol oscillator through MATLAB simulations.
+I implemented and evaluated correlated-noise models, multi-rate sensor fusion, and nonlinear filters in MATLAB using a planar mobile robot and a Van der Pol oscillator. My analysis examines estimation accuracy, uncertainty, measurement interruptions and delays, and computational cost.
 
 In this work, I:
 
@@ -16,4 +16,6 @@ In this work, I:
 
 [Read my submitted report](selected-coursework-report.pdf). The 72-page report includes mathematical derivations, MATLAB listings, simulation figures, numerical results, and my discussion of the accuracy–computation tradeoff. The data for the illustrated systems are generated within the simulation code.
 
-This is a coursework submission, not an independent research project. I have retained the report as submitted. The MATLAB listings have not been independently rerun for this repository; on page 2, the covariance-ranking expression refers to an undefined variable named `Hardcoded`, which should be checked against the intended target covariance `Q` before reproducing that part. Local output paths in the listings also need adapting to the reader's environment.
+### Reproduction notes
+
+The report is preserved as submitted. The MATLAB listings have not been independently rerun for this repository; on page 2, the covariance-ranking expression refers to an undefined variable named `Hardcoded`, which should be checked against the intended target covariance `Q` before reproducing that part. Local output paths in the listings also need adapting to the reader's environment.
