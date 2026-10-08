@@ -1,6 +1,6 @@
 # Estimation Theory and Sensor Fusion
 
-I completed this graduate-level coursework at Sharif University of Technology under Professor Behzad Ahi, earning a final course grade of **17.5/20**. The official course title was **Inertial Navigation**; this repository title describes the estimation and sensor-fusion topics represented in the selected work.
+I completed this graduate-level coursework at Sharif University of Technology under Professor Behzad Ahi, earning a final course grade of **17.5/20**. The official course title was **Inertial Navigation**.
 
 ## Selected coursework
 
