@@ -4,9 +4,9 @@ I completed this graduate-level coursework at Sharif University of Technology un
 
 ## Selected coursework
 
-I selected **Assignment 6** as a representative sample because it brings together stochastic modeling, nonlinear state estimation, multi-rate sensor fusion, and quantitative evaluation of estimation algorithms. It demonstrates my implementation and analysis of these methods through simulated systems, rather than serving as a complete archive of the course.
+My selected coursework explores correlated-noise modeling, multi-rate sensor fusion for a planar robot, and nonlinear filtering for a Van der Pol oscillator through MATLAB simulations.
 
-In this assignment, I:
+In this work, I:
 
 - Generated correlated Gaussian random vectors using matrix square roots, Cholesky factorization, and eigendecomposition, and checked their empirical covariance and process/measurement cross-covariance.
 - Implemented an extended Kalman filter for a planar mobile robot with range and bearing measurements arriving at different rates. I examined initialization error, uncertainty envelopes, measurement outages, and compensation for delayed measurements.
